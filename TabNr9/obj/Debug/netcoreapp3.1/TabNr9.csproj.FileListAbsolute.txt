@@ -1,0 +1,13 @@
+C:\Users\dawid\source\repos\TabNr9\TabNr9\bin\Debug\netcoreapp3.1\TabNr9.exe
+C:\Users\dawid\source\repos\TabNr9\TabNr9\bin\Debug\netcoreapp3.1\TabNr9.deps.json
+C:\Users\dawid\source\repos\TabNr9\TabNr9\bin\Debug\netcoreapp3.1\TabNr9.runtimeconfig.json
+C:\Users\dawid\source\repos\TabNr9\TabNr9\bin\Debug\netcoreapp3.1\TabNr9.runtimeconfig.dev.json
+C:\Users\dawid\source\repos\TabNr9\TabNr9\bin\Debug\netcoreapp3.1\TabNr9.dll
+C:\Users\dawid\source\repos\TabNr9\TabNr9\bin\Debug\netcoreapp3.1\TabNr9.pdb
+C:\Users\dawid\source\repos\TabNr9\TabNr9\obj\Debug\netcoreapp3.1\TabNr9.csprojAssemblyReference.cache
+C:\Users\dawid\source\repos\TabNr9\TabNr9\obj\Debug\netcoreapp3.1\TabNr9.AssemblyInfoInputs.cache
+C:\Users\dawid\source\repos\TabNr9\TabNr9\obj\Debug\netcoreapp3.1\TabNr9.AssemblyInfo.cs
+C:\Users\dawid\source\repos\TabNr9\TabNr9\obj\Debug\netcoreapp3.1\TabNr9.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\TabNr9\TabNr9\obj\Debug\netcoreapp3.1\TabNr9.dll
+C:\Users\dawid\source\repos\TabNr9\TabNr9\obj\Debug\netcoreapp3.1\TabNr9.pdb
+C:\Users\dawid\source\repos\TabNr9\TabNr9\obj\Debug\netcoreapp3.1\TabNr9.genruntimeconfig.cache
